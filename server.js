@@ -26,9 +26,9 @@ app.post('/bfhl', (req, res) => {
 
         const response = {
             is_success: true,
-            user_id: "Suman Ranjan",
-            email: "suman872.be22@chitkara.edu.in",
-            roll_number: "2210990872",
+            user_id: "Rudraksh Chib",
+            email: "rudraksh745.be22@chitkara.edu.in",
+            roll_number: "2210990745",
             odd_numbers: [],
             even_numbers: [],
             alphabets: [],
